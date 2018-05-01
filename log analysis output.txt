@@ -1,19 +1,17 @@
 
-
-
 LOG ANALYSIS PROJECT
 
-1. What are the most popular three articles of all time?
+What are the most popular three articles of all time?
 
- /article/candidate-is-jerk  | 338647
- /article/bears-love-berries | 253801
- /article/bad-things-gone    | 170098
+ candidate-is-jerk  | 338647
+ bears-love-berries | 253801
+ bad-things-gone    | 170098
 
-2. Who are the most popular article authors of all time? 
+Who are the most popular article authors of all time? 
  Ursula La Multa        | 507594
  Rudolf von Treppenwitz | 423457
  Anonymous Contributor  | 170098
  Markoff Chaney         |  84557
 
-3. On which days did more than 1% of requests lead to errors? 
+On which days did more than 1% of requests lead to errors? 
  Jul 17, 2016 |      2.28
